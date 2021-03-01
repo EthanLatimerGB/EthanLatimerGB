@@ -9,6 +9,7 @@ I am a student currently practicing Full Stack web development along with soon a
 ### Projects
 
 A lot of my repositories are exercises from https://fullstackopen.com/en/ but projects I have finished exluding those exercises include: 
+
 ⋅⋅* QuickThink ([Frontend](https://github.com/EthanLatimerGB/Quick-Think-Frontend "Frontend page") and [Backend](https://github.com/EthanLatimerGB/Quick-Think-Backend "Backend page"))
 
 ### Languages
