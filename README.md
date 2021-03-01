@@ -26,3 +26,6 @@ A lot of my repositories are exercises from https://fullstackopen.com/en/ but pr
 * Redux
 * Lodash
 * TS @types/**libraries**
+
+### Contact me
+* ([Discord](https://discord.com/users/Bambamarama#2655)) Keep in mind you cannot message me unless you add me as a friend. Just for anti-spam.  
