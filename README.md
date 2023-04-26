@@ -4,17 +4,12 @@
 
 ### About Me
 
-I am a student doing Full Stack Web development in my spare time along with C++ Development for systems and game engine development. 
-
-### Projects
-
-A lot of my previous repositories are the exercises from https://fullstackopen.com/en/ but projects I have finished excluding those exercises include: 
-
-* QuickThink ([Frontend](https://github.com/EthanLatimerGB/Quick-Think-Frontend "Frontend page") and [Backend](https://github.com/EthanLatimerGB/Quick-Think-Backend "Backend page")) : An application to help people learning a language by quizzing on words they forget or need to learn. (UI certainly needs a makeover)
+I am a student doing Full Stack Web development in my spare time. Quick familiar also with Java and the JavaFX UI library. Looking to finally get stuck into some systems development soon. 
 
 ### Languages
-* C++
+* Java
 * JavaScript/TypeScript
+* C/C++
 
 ### Commonly used JS/TS Libraries and Frameworks
 * React and React Native
