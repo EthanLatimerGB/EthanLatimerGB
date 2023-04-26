@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am a student doing Full Stack Web development in my spare time. Quick familiar also with Java and the JavaFX UI library. Looking to finally get stuck into some systems development soon. 
+I am a student doing Full Stack Web development in my spare time. Quite familiar also with Java and the JavaFX UI library. Looking to finally get stuck into some systems development soon. 
 
 ### Languages
 * Java
